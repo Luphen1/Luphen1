@@ -62,13 +62,13 @@ The analysis results are summarize as follow;
 
 5.Elder occurs to have the highest occurrence of age in the dataset
 
-6. Senior age group has the most average glucose
+6.Senior age group has the most average glucose
 
-7. Senior age group are most risk to high blood pressure
+7.Senior age group are most risk to high blood pressure
  
-8. Elder age group has the highest average troponin
+8.Elder age group has the highest average troponin
 
-9. There are high risk of heart attack in the dataset for the average glucose
+9.There are high risk of heart attack in the dataset for the average glucose
 
 10.Elder age group has the highest risk of heart attack in the dataset
 
