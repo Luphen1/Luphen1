@@ -22,7 +22,8 @@ Passionate about unraveling insights from data to drive informed decisions. 📊
 Excel - Data cleaning to check if there are missing values and duplicate records 
 MYSQL - Data Analysis
 Power BI - Creating Reports
-The analysis results are summarized as follows:
+
+The analysis results are summarized as follows;
 
 1.Toyota brand has more mileage for each year of production
 
@@ -49,18 +50,29 @@ Excel - is used for data cleaning to check of there are missing values and dupli
 MySQL - is used to change the data type from age numeric value Column to string data type Column which enhances readibility and simplicity for visualization purposes
 Power Bi - Creating Report
 
-The analysis results are summarize as follow
-Female has the highest occurrence of gender in the dataset
-Young adult age group has the highest glucose variation
-Elder age group has the highest occurrence of gender
-Adult has the highest impulse above average in the dataset
-Elder occurs to have the highest occurrence of age in the dataset
-Senior age group has the most average glucose
-Senior age group are most risk to high blood pressure
-Elder age group has the highest average troponin
-There are high risk of heart attack in the dataset for the average glucose
-Elder age group has the highest risk of heart attack in the dataset
-Young adult age group has the highest percentage attack of high blood pressure while the teenager has lowest percentage of low blood pressure
+The analysis results are summarize as follow;
+
+1.Female has the highest occurrence of gender in the dataset
+
+2.Young adult age group has the highest glucose variation
+
+3.Elder age group has the highest occurrence of gender
+
+4.Adult has the highest impulse above average in the dataset
+
+5.Elder occurs to have the highest occurrence of age in the dataset
+
+6. Senior age group has the most average glucose
+
+7. Senior age group are most risk to high blood pressure
+ 
+8. Elder age group has the highest average troponin
+
+9. There are high risk of heart attack in the dataset for the average glucose
+
+10.Elder age group has the highest risk of heart attack in the dataset
+
+11.Young adult age group has the highest percentage attack of high blood pressure while the teenager has lowest percentage of low blood pressure
 
 ### 📚 Continuous Learning:
 
