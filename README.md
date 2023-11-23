@@ -8,7 +8,7 @@ Passionate about unraveling insights from data to drive informed decisions. 📊
 
 - **Analytical Skills:** Proficient in extracting meaningful patterns and trends from complex datasets.
 - **Data Visualization:** Creating compelling visualizations that tell a story and make data accessible.
-- **Tools Mastery:** Experienced with MySQL, Postgresql,Excel and power 
+- **Tools Mastery:** Experienced with MySQL, Postgresql,Excel and Power BI
 - **Problem Solving:** Thrive on solving real-world problems through data-driven approaches.
 
 ### 🌱 Currently Exploring:
