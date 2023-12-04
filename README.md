@@ -82,6 +82,9 @@ The analysis results are summarize as follow;
 
 - LinkedIn: [Oluwafemi Stephen Odebunmi ](#www.linkedin.com/in/oluwafemi-odebunmi-666955245)
 - Twitter: [@luphen](link-to-twitter)
+- Gmail: [femistephen9@gmail.com](#femistephen9@gmail.com)
+- instagram: [mi_liali](#mi_liali)
+  
 
 Looking forward to collaborating, learning, and growing together in the world of data analysis! 🌐
 
