@@ -42,6 +42,19 @@ The analysis results are summarized as follows:
 	
 Based on my analysis, I recommend the following actions:
 
+1. Encourage the production of Toyota car brand for each year.
+   
+2. Focus on producing more expensive cars as they generate higher revenue.
+   
+3. Increase production in Los Angeles to boost car sales, while maintaining a favorable production level in Dallas.
+   
+4. Emphasize Hyundai brand cars as they are profitable products to generate revenue.
+   
+5. Prioritize the production of white cars, as they have the potential to generate more revenue for the company.
+
+6. Implement a strategy to increase production rates of Toyota, Chevrolet, Hyundai, Ford, and Honda across all locations
+
+
 
 
 🚗 💻
