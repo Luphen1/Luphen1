@@ -44,7 +44,7 @@ Based on my analysis, I recommend the following actions;
 
 🚗 💻
 
-- [Heart-Attack-Portfolio-Project](#https://github.com/Luphen1/Heart-Attack-Portfolio-Project-): 
+- [Heart-Attack-Portfolio-Project](##https://github.com/Luphen1/Heart-Attack-Portfolio-Project-): 
 
 Excel - is used for data cleaning to check of there are missing values and duplicate records across the spreadsheet
 MySQL - is used to change the data type from age numeric value Column to string data type Column which enhances readibility and simplicity for visualization purposes
