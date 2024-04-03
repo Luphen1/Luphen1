@@ -48,33 +48,32 @@ Based on my analysis, I recommend the following actions:
 
 - [Heart-Attack-Portfolio-Project](##https://github.com/Luphen1/Heart-Attack-Portfolio-Project-): 
 
-Excel - is used for data cleaning to check of there are missing values and duplicate records across the spreadsheet
-MySQL - is used to change the data type from age numeric value Column to string data type Column which enhances readibility and simplicity for visualization purposes
-Power Bi - Creating Report
+	Excel - Used for data cleaning to check for missing values and duplicate records across the spreadsheet to enhance data integrity.
+	MySQL - Utilized for enhancing the dataset by creating a new column type for data manipulation and data structure.
+	Power BI - Employed for creating dynamic dashboard reports.
+The analysis results are summarized as follows:
+1.	Females have the highest occurrence of gender in the dataset.
+   
+2.	The young adult age group has the highest glucose variation.
+	
+3.	The elder age group has the highest occurrence of gender.
+	
+4.	Adults have the highest impulse above average in the dataset.
+	
+5.	The elder age group has the highest occurrence of age in the dataset.
+	
+6.	The senior age group has the highest average glucose.
+	
+7.	The senior age group is most at risk of high blood pressure.
+	
+8.	The elder age group has the highest average troponin.
+	
+9.	There is a high risk of heart attack in the dataset due to average glucose.
+	
+10.	The elder age group has the highest risk of heart attack in the dataset.
+	
+11.	The young adult age group has the highest percentage of high blood pressure attacks, while teenagers have the lowest percentage of low blood pressure.
 
-The analysis results are summarize as follow;
-
-1.Female has the highest occurrence of gender in the dataset
-
-2.Young adult age group has the highest glucose variation
-
-3.Elder age group has the highest occurrence of gender
-
-4.Adult has the highest impulse above average in the dataset
-
-5.Elder occurs to have the highest occurrence of age in the dataset
-
-6.Senior age group has the most average glucose
-
-7.Senior age group are most risk to high blood pressure
- 
-8.Elder age group has the highest average troponin
-
-9.There are high risk of heart attack in the dataset for the average glucose
-
-10.Elder age group has the highest risk of heart attack in the dataset
-
-11.Young adult age group has the highest percentage attack of high blood pressure while the teenager has lowest percentage of low blood pressure
 
 ### 📚 Continuous Learning:
 
