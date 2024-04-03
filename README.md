@@ -18,7 +18,8 @@ Passionate about unraveling insights from data to drive informed decisions. 📊
 
 ### 📊 Projects That Speak for Themselves:
 
--(#https://github.com/Luphen1/CAR-DATASET-PORTFOLIO-PROJECT): 
+- [CAR-DATASET-PORTFOLIO-PROJECT]
+(#CAR-DATASET-PORTFOLIO-PROJECT): 
 Excel - Data cleaning to check if there are missing values and duplicate records 
 MYSQL - Data Analysis
 Power BI - Creating Reports
