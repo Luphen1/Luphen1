@@ -20,27 +20,28 @@ Passionate about unraveling insights from data to drive informed decisions. 📊
 
 - [CAR-DATASET-PORTFOLIO-PROJECT]
 (#CAR-DATASET-PORTFOLIO-PROJECT): 
-Excel - Data cleaning to check if there are missing values and duplicate records 
-MYSQL - Data Analysis
-Power BI - Creating Reports
+	Excel - Used for data cleaning to check for missing values and duplicate records across the spreadsheet to enhance data integrity.
+	MySQL - Utilized for enhancing the dataset for data manipulation and data structure.
+	Power BI - Employed for creating dynamic dashboard reports.
 
-The analysis results are summarized as follows;
+The analysis results are summarized as follows:
 
-1.Toyota brand has more Mileage for each year of production
+1.	Toyota brand has higher mileage for each year of production.
+   
+2.	The price difference between the most expensive and cheapest car is $17,000.
 
-2.The price difference between the most expensive and cheapest car is $17000
+3.	There should be more production of cars in Los Angeles, while Dallas has the most profitable production.
+	
+4.	Hyundai brand cars are significantly more profitable.
+	
+5.	High production of white cars would be advantageous and generate more revenue for the company.
+	
+6.	Hyundai has a higher coefficient of variation among car brands.
+	
+7.	Production of Honda and Ford cars in 2017 and 2018 generated more sales in those years.
+	
+Based on my analysis, I recommend the following actions:
 
-3.There should be more production of cars in los angeles while dallas has the most profitable production
-
-4.Hyundai brand car are way more profitable car
-
-5.High production of white cars would be a plus and generate more money for the company
-
-6.Hyundai has more coefficient variation of car brand
-
-7.Production of honda and ford car in 2017 and 2018, Generate more sales in those stated year
-
-Based on my analysis, I recommend the following actions;
 
 
 🚗 💻
