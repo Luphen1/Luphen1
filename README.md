@@ -26,9 +26,9 @@ Power BI - Creating Reports
 
 The analysis results are summarized as follows;
 
-1.Toyota brand has more mileage for each year of production
+1.Toyota brand has more Mileage for each year of production
 
-2.The price difference between the most expensive and cheapest car is 17000
+2.The price difference between the most expensive and cheapest car is $17000
 
 3.There should be more production of cars in los angeles while dallas has the most profitable production
 
@@ -78,7 +78,7 @@ The analysis results are summarize as follow;
 ### 📚 Continuous Learning:
 
 - Actively participating in online courses and keeping up with industry trends.
-- Always open to feedback and eager o
+- Always open to feedback and eager to learn 
 ### 🤝 Let's Connect:
 
 - LinkedIn: [Oluwafemi Stephen Odebunmi ](#www.linkedin.com/in/oluwafemi-odebunmi-666955245)
