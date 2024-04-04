@@ -18,8 +18,8 @@ Passionate about unraveling insights from data to drive informed decisions. 📊
 
 ### 📊 Projects That Speak for Themselves:
 
-- [CAR-DATASET-PORTFOLIO-PROJECT]
-(#CAR-DATASET-PORTFOLIO-PROJECT): 
+- [CAR-DATASET-PORTFOLIO-PROJECT](https)
+ 
 	Excel - Used for data cleaning to check for missing values and duplicate records across the spreadsheet to enhance data integrity.
 	MySQL - Utilized for enhancing the dataset for data manipulation and data structure.
 	Power BI - Employed for creating dynamic dashboard reports.
@@ -59,7 +59,7 @@ Based on my analysis, I recommend the following actions:
 
 🚗 💻
 
-- [Heart-Attack-Portfolio-Project](##https://github.com/Luphen1/Heart-Attack-Portfolio-Project-): 
+- [Heart-Attack-Portfolio-Project](https) 
 
 	Excel - Used for data cleaning to check for missing values and duplicate records across the spreadsheet to enhance data integrity.
 	MySQL - Utilized for enhancing the dataset by creating a new column type for data manipulation and data structure.
