@@ -2,7 +2,7 @@
 
 ## 👋 Hello World! I'm Oluwafemi Stephen Odebunmi 
 
-Passionate about unraveling insights from data to drive informed decisions. 📊 Aspiring Data Analyst with a knack for transforming raw data into compelling narratives. 💡
+Passionate about unraveling insights from data to drive informed decisions. 📊 Data Analyst with a knack for transforming raw data into compelling narratives. 💡
 
 ### 🚀 What I Bring to the Table:
 
@@ -67,6 +67,7 @@ Based on my analysis, I recommend the following actions:
 
 The analysis results are summarized as follows:
 
+
 1.	Females have the highest occurrence of gender in the dataset.
    
 2.	The young adult age group has the highest glucose variation.
@@ -88,9 +89,11 @@ The analysis results are summarized as follows:
 10.	The elder age group has the highest risk of heart attack in the dataset.
 	
 11.	The young adult age group has the highest percentage of high blood pressure attacks, while teenagers have the lowest percentage of low blood pressure.
+    
 
 
 Based on my analysis, I recommend the following actions:
+
 
 1. Increase Healthcare Access: Provide more frequent health check-ups for young adults to address and prevent high blood pressure.
    
