@@ -1,6 +1,7 @@
 
 
-## 👋 Hello World! I'm Oluwafemi Stephen Odebunmi 
+## 👋 Hello World! I'm Oluwafemi Stephen Odebunmi
+## Data Analyst
 
 Passionate about unraveling insights from data to drive informed decisions. 📊 Data Analyst with a knack for transforming raw data into compelling narratives. 💡
 
@@ -8,13 +9,13 @@ Passionate about unraveling insights from data to drive informed decisions. 📊
 
 - **Analytical Skills:** Proficient in extracting meaningful patterns and trends from complex datasets.
 - **Data Visualization:** Creating compelling visualizations that tell a story and make data accessible.
-- **Tools Mastery:** Experienced with MySQL, Microsoft SQL server, Tableau, Jupyterlap , JupyterNotebook, Pandas, Matplotlib, Seaborn, Numpy, Excel and Power BI
+- **Tools Mastery:** Experienced with MySQL, Microsoft SQL server, Tableau, Jupyterlap , JupyterNotebook, Pandas, Matplotlib, Seaborn, Numpy, Excel, and Power BI(DAX)
 - **Problem Solving:** Thrive on solving real-world problems through data-driven approaches.
 
 ### 🌱 Currently Exploring:
 
 - Advanced statistical analysis techniques.
-- Python 
+- Python
 
 ### 📚 Continuous Learning:
 
@@ -23,7 +24,7 @@ Passionate about unraveling insights from data to drive informed decisions. 📊
 ### 🤝 Let's Connect:
 
 - LinkedIn: [Oluwafemi Stephen Odebunmi ](#www.linkedin.com/in/oluwafemi-odebunmi-666955245)
-- Twitter: [@luphen](link-to-twitter)
+- Twitter: [@StephenLuphen](link-to-twitter)
 - Gmail: [femistephen9@gmail.com](#femistephen9@gmail.com)
 
   
