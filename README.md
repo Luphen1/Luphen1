@@ -26,7 +26,7 @@ Passionate about unraveling insights from data to drive informed decisions. 📊
 - LinkedIn: [Oluwafemi Stephen Odebunmi ](#www.linkedin.com/in/oluwafemi-odebunmi-666955245)
 - Twitter: [@StephenLuphen](link-to-twitter)
 - Gmail: [femistephen9@gmail.com](#femistephen9@gmail.com)
-- IG:[mi_liali] (#https://www.instagram.com/mi_liali/)
+- IG:[mi_lial](#https://www.instagram.com/mi_liali/)
 
   
 
